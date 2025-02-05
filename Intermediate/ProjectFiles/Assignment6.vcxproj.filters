@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Assignment6.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assignment6.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Assignment6Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Assignment6">
+      <UniqueIdentifier>{BEA055EE-F693-38E4-BCEF-E4DCF82F25B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Assignment6\Assignment6.Build.cs">
+      <Filter>Source\Assignment6</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Assignment6\Assignment6.cpp">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment6\Assignment6.h">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment6\PlatObject.cpp">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment6\PlatObject.h">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment6\Plat_MovingAlongLine.cpp">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment6\Plat_MovingAlongLine.h">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment6\Plat_Rotating.cpp">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Assignment6\Plat_Rotating.h">
+      <Filter>Source\Assignment6</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

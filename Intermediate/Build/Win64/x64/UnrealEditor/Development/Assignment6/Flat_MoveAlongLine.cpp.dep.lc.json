@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\assignment6\\source\\assignment6\\flat_movealongline.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\assignment6\\intermediate\\build\\win64\\x64\\assignment6editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\assignment6\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assignment6\\definitions.assignment6.h",
+            "c:\\unreal_project\\assignment6\\source\\assignment6\\flat_movealongline.h",
+            "c:\\unreal_project\\assignment6\\intermediate\\build\\win64\\unrealeditor\\inc\\assignment6\\uht\\flat_movealongline.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
